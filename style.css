@@ -72,8 +72,8 @@ button {
 }
 
 .poke-box:hover {
-  border: 2px solid green;
   transform: scale(1.1);
+  box-shadow: 0px 0px 40px black;
 }
 
 .poke-box img {
@@ -83,4 +83,8 @@ button {
 
 .poke-box p {
   margin: 10px auto;
+}
+
+.poke-name {
+  font-size: 2rem;
 }
