@@ -73,17 +73,3 @@ searchInput.addEventListener("input", () => {
     }
   });
 });
-
-// const pokemon = (name) => {
-//   fetch(url)
-//     .then((res) => {
-//       if (!res.ok) {
-//         throw new Error("Something went wrong..");
-//       }
-//       return res.json();
-//     })
-//     .then((data) => console.log(data.results));
-// };
-
-// pokemon("charmander ");
-// // pokemon("balbasaur");
