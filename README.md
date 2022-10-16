@@ -16,7 +16,7 @@
 
 ### The challenge
 
-
+The project includes the first generation of pokemon cards everyone knew from their childhood.
 
 ### Project Skeleton
 
@@ -30,13 +30,13 @@ pokemon (folder)
 ### Screenshot
 
 <p align="center">
-<a href=""><img src=".gif" alt="screenshot" width="100%"></a>
+<a href="https://sezginakgul.github.io/pokemon/"><img src="pokemon.gif" alt="screenshot" width="100%"></a>
 </p>
 
 
 ### Links
 
-- Live: [Live Website]()
+- Live: [Live Website](https://sezginakgul.github.io/pokemon/)
 
 
 ### Built with
